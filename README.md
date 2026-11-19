@@ -120,7 +120,7 @@ Released under the [MIT License](LICENSE).
 
 ### Author
 
-**Hamed Gharghi**  
+**Ali Hassan**  
 GitHub: [@ali16-ui](https://github.com/ali16-ui)
 
 If this project helps your learning or lab work, consider starring the repository.
