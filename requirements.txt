@@ -1,0 +1,8 @@
+scapy
+termcolor
+argparse
+os-sys
+subprocess.run
+time
+csv
+subprocess.Popen
