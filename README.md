@@ -2,7 +2,7 @@
 
 <h1>AH Wifi Killer — Educational WiFi Deauthentication Toolkit</h1>
 
-[English](#english) · [فارسی](#فارسی)
+[English](#english) 
 
 **Python • Linux • aircrack-ng • mdk4**
 
