@@ -58,7 +58,7 @@ Core libraries used by the tool: `scapy`, `termcolor`.
 ### Installation
 
 ```bash
-git clone https://github.com/ali-ui/wifi-deauthenticator
+git clone https://github.com/ali-ui/wifi-deauthenticator.git
 cd wifi-deauther
 sudo chmod +x wifi_deauther.py
 ```
