@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <h1>AH Wifi Killer — Educational WiFi Deauthentication Toolkit</h1>
 
 [English](#english) · [فارسی](#فارسی)
@@ -46,7 +45,11 @@ sudo apt install aircrack-ng mdk4
 
 #### Python packages
 
+Create and activate a virtual environment, then install the dependencies:
+
 ```bash
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -57,7 +60,7 @@ Core libraries used by the tool: `scapy`, `termcolor`.
 ```bash
 git clone https://github.com/Hamed-Gharghi/wifi-deauther.git
 cd wifi-deauther
-chmod +x wifi_deauther.py
+sudo chmod +x wifi_deauther.py
 ```
 
 ### Usage
@@ -104,8 +107,7 @@ wifi-deauther/
 ├── wifi_deauther.py   # Main CLI application
 ├── requirements.txt   # Python dependencies
 ├── LICENSE            # MIT License
-├── image.png          # Project banner
-└── README.md          # Documentation (EN / FA)
+└── README.md          # Documentation (EN)
 ```
 
 ### Disclaimer
@@ -124,6 +126,4 @@ GitHub: [@ali16-ui](https://github.com/ali16-ui)
 If this project helps your learning or lab work, consider starring the repository.
 
 ---
-
-<div dir="rtl">
 
